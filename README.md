@@ -1,6 +1,6 @@
 # Neural_Networks_project
 
-Partial re-implementation of the paper 'Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance'
+Partial re-implementation of the paper 'Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance', 
 
 The paper is a benchmark of the robustness of the explainers under symmetrical transformation. In this re-implementation I focused on replicating the results on Graph Neural Networks and attribution explantions, by checking that the explanation produced by the explainer are equivariant under node permutation. Moreover, I also reproduce the proposed method to enforce equivariance in any attribution.
 
