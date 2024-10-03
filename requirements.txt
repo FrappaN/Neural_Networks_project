@@ -1,0 +1,17 @@
+captum==0.6.0
+ipykernel
+ipython 
+jupyter_client
+jupyter_core
+matplotlib 
+matplotlib-inline 
+networkx
+numba==0.58.1
+numpy
+pandas
+scikit-learn 
+scipy==1.11.2
+seaborn
+torch==2.0.1
+torch_geometric==2.5.3
+tqdm
